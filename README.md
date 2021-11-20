@@ -1,9 +1,8 @@
 ## 重要通知
 ### 落霞与孤鹜齐飞,秋水共长天一色。
 
-Faker自用仓库，脚本收集者。
 
-#### [交流频道](https://t.me/pandaqx)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shufflewzc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -25,9 +24,6 @@ https://www.notion.so/Quantumult-X-cd78c6ab616e4ebf947519b2dd690a0c
 https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 
 
-觉得项目好的话，各位看官高兴可打赏下~
-
-![image](https://user-images.githubusercontent.com/15306294/140888333-901cbcdd-e599-44c4-b834-8ea4d1ebc7b0.png)
 
 
 ## Special statement:
